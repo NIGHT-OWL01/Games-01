@@ -1,0 +1,2 @@
+BLIT: Basically, blit means to copy graphics from one image to another
+Graphics: any visual representation of data
